@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    margin: 0 auto;
+    text-align: right;
+    background-color: #9400008a;
+    padding: 25px;
+}
+
+li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+ul {
+    float: left;
+    padding-top: 8px;
+}
+
+
+.c {
+    height: 500px;
+}
+
+#al {
+    background-color: antiquewhite;
+}
+
+.m {
+    padding-left: 35px;
+    color: white;
+    background-color: black;
+}
+
+.y {
+    color: white;
+    padding-left: 35px;
+    background-color: black;
+}
+
+.t {
+    color: white;
+    padding-left: 315px;
+    background-color: black;
+}
+
+.pp {
+    background-color: rgb(9, 61, 173);
+    color: white;
+    padding: 10px;
+    padding-left: 190px;
+}
+
+.l {
+    padding-left: 35px;
+}
+
+.b {
+    padding-left: 35px;
+}
+
+.x {
+    padding-left: 35px;
+}
+
+.po {
+    padding-left: 35px;
+}
+
+.mlo {
+    color: white;
+    padding-left: 30px;
+    background-color: black;
+}
+
+.lo {
+    color: white;
+    padding-left: 35px;
+    background-color: black;
+}
+
+.polo {
+    padding-left: 30px;
+}
+
+.momo {
+    color: white;
+    padding-left: 30px;
+    background-color: black;
+}
+
+.t {
+    color: white;
+    padding-left: 30px;
+    background-color: black;
+}
+
+.no {
+    height: 165px;
+    padding-left: 30px;
+}
+
+.zo {
+    height: 270px;
+    padding-left: 30px;
+}
+
+.nonos {
+    color: white;
+    padding-left: 30px;
+    background-color: black;
+}
+
+.jo {
+    padding-left: 30px
+}
+
+.poiu {
+    height: 1110px;
+}
+
+.vd {
+    background-color: white;
+    direction: rtl;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.ffg {
+    text-align: center;
+}
+
+.maz {
+    direction: rtl;
+}
+
+.moni {
+    height: 500px
+}
+
+.ab {
+    padding-right: 310px;
+}
+
+.right {
+    float: left;
+}
+
+
+
+.bola {
+    text-decoration: none;
+    color: black;
+}
+
+.koka {
+    text-decoration: none;
+    color: black;
+
+}
+
+#BILAW {
+    background-color: black;
+    color: white;
+
+}
+
+.you {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    padding-right: 430px;
+}
+
+.kitabon {
+    padding-right: 320px;
+    font-size: 10px;
+}
+
+.Color {
+    color: grey;
+}
+
+.your {
+    background-color: black;
+    color: white;
+    padding-right: 352px;
+}
+
+#youb {
+    background-color: black;
+    color: white;
+}
+
+.allHna {
+    direction: rtl;
+}
+
+.wrap {
+    text-decoration: none;
+}
+
+.colorr {
+    color: white;
+    background-color: rgba(66, 103, 224, 0.712);
+}
+
+.khl {
+    color: black;
+}
+
+.kpon {
+    padding-right: 310px;
+}
+
+.nhwlm {
+    text-decoration: none;
+}
+a :hover {
+    color: brown;
+}
